@@ -27,7 +27,7 @@
 
 ## 📌 Project Overview
 
-**Pekan Kundasang Local Community Website** is a front-end web project that brings together important information about Pekan Kundasang, Sabah in a structured and visually engaging website.
+**S.Q is a Pekan Kundasang Local Community Website** which is a front-end web project that brings together important information about Pekan Kundasang, Sabah in a structured and visually engaging website.
 
 The website was developed as an academic project for **IMS458 – Web Design and Development**. From an Information System Management perspective, the project focuses not only on visual design, but also on how community information can be **organised, categorised, presented and accessed efficiently by users**.
 
