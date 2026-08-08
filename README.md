@@ -2,7 +2,7 @@
   <img src="Image/LOGO%20NEW%202.png" alt="Pekan Kundasang Local Community Website Logo" width="180">
 </p>
 
-<h1 align="center">Pekan Kundasang Local Community Website</h1>
+<h1 align="center">S.Q - Pekan Kundasang Local Community Website</h1>
 
 <p align="center">
   A multimedia local community information website developed to present the attractions, culture, history, facilities, food and visitor information of Pekan Kundasang, Sabah in one organised digital platform.
