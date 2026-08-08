@@ -73,8 +73,6 @@ The main objectives of the project are to:
 
 ---
 
-## 💡 Information System Perspective
-
 As an Information System Management project, the website is designed around the idea of converting scattered community information into a structured digital resource.
 
 The information is divided into logical modules so users can quickly find what they need:
@@ -414,10 +412,6 @@ flowchart LR
     C --> J[Google Fonts / Icon Libraries]
 ```
 
-Because the website is based on client-side technologies, it can be deployed directly using **GitHub Pages** without requiring a server-side framework or database installation.
-
----
-
 # 🧭 Website Navigation Flow
 
 ```mermaid
@@ -663,49 +657,7 @@ The project contains **16 HTML files, 11 CSS files and 2 JavaScript files**, tot
 | `confetti.js` | Feedback form clearing and confetti interaction |
 | `webmaster.html` | Academic project and student information |
 
----
-
-# ▶️ Running the Project Locally
-
-The website does not require package installation or a build process.
-
-## Option 1 — Open Directly
-
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open `index.html` using a modern web browser.
-
-## Option 2 — Run with a Local Web Server
-
-Clone the repository:
-
-```bash
-git clone https://github.com/lia-011/LOCAL_COMMUNITY_WEBSITE.git
-```
-
-Move into the project directory:
-
-```bash
-cd LOCAL_COMMUNITY_WEBSITE
-```
-
-Start a simple Python web server:
-
-```bash
-python -m http.server 8000
-```
-
-Then open:
-
-```text
-http://localhost:8000
-```
-
-An internet connection allows the website to load external fonts, icon libraries, embedded YouTube content and linked online resources.
-
----
-
-# 👤 Typical User Flow
+# 👤 User Flow
 
 A visitor can use the system in the following way:
 
@@ -720,57 +672,6 @@ A visitor can use the system in the following way:
 9. Read common visitor questions in the FAQ accordion.
 10. Submit feedback through the interactive feedback interface.
 11. Use the Contact page for community contact information.
-
----
-
-# 📊 Information Management Value
-
-The project demonstrates several important Information System Management concepts:
-
-### Information Organisation
-Community information is divided into clear categories instead of being presented as one large collection of content.
-
-### User-Centred Navigation
-Dropdown menus, dedicated pages, galleries and external resource links allow users to move directly to the information they need.
-
-### Digital Information Access
-The website makes tourism and community information available through a web-based platform that can be accessed through a browser.
-
-### Multimedia Information Presentation
-Text, photographs, local videos, embedded video content and icons are combined to improve information delivery.
-
-### External Information Integration
-The website connects users with online travel, mapping, tourism and social-media resources when additional information is useful.
-
-### Interactive User Experience
-JavaScript and CSS interactions are used to provide video switching, attraction navigation, expandable FAQ content and feedback confirmation.
-
----
-
-# 📚 Learning Outcomes
-
-Through this project, practical experience was gained in:
-
-- Planning the information structure of a multi-page website.
-- Organising local-community information into meaningful modules.
-- Developing web pages using HTML5.
-- Designing user interfaces using CSS3.
-- Building layouts with Flexbox and CSS Grid.
-- Applying responsive web design techniques.
-- Creating animations and hover interactions.
-- Manipulating HTML elements with JavaScript.
-- Building a custom content carousel.
-- Integrating multimedia files into a website.
-- Embedding third-party web content.
-- Connecting a website to external information resources.
-- Designing user input forms.
-- Using browser-based client-side interaction.
-- Managing project files and assets.
-- Using Git and GitHub for version control.
-- Publishing a website through GitHub Pages.
-- Working collaboratively on a complete academic web project.
-
----
 
 # 👨‍💻 Developers
 
