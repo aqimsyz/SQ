@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Image/LOGO%20NEW%202.png" alt="Pekan Kundasang Local Community Website Logo" width="180">
+  <img src="Image/LOGO.png" alt="Pekan Kundasang Local Community Website Logo" width="180">
 </p>
 
 <h1 align="center">Pekan Kundasang Local Community Website</h1>
@@ -663,48 +663,6 @@ The project contains **16 HTML files, 11 CSS files and 2 JavaScript files**, tot
 | `confetti.js` | Feedback form clearing and confetti interaction |
 | `webmaster.html` | Academic project and student information |
 
----
-
-# ▶️ Running the Project Locally
-
-The website does not require package installation or a build process.
-
-## Option 1 — Open Directly
-
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open `index.html` using a modern web browser.
-
-## Option 2 — Run with a Local Web Server
-
-Clone the repository:
-
-```bash
-git clone https://github.com/lia-011/LOCAL_COMMUNITY_WEBSITE.git
-```
-
-Move into the project directory:
-
-```bash
-cd LOCAL_COMMUNITY_WEBSITE
-```
-
-Start a simple Python web server:
-
-```bash
-python -m http.server 8000
-```
-
-Then open:
-
-```text
-http://localhost:8000
-```
-
-An internet connection allows the website to load external fonts, icon libraries, embedded YouTube content and linked online resources.
-
----
-
 # 👤 Typical User Flow
 
 A visitor can use the system in the following way:
@@ -720,32 +678,6 @@ A visitor can use the system in the following way:
 9. Read common visitor questions in the FAQ accordion.
 10. Submit feedback through the interactive feedback interface.
 11. Use the Contact page for community contact information.
-
----
-
-# 📊 Information Management Value
-
-The project demonstrates several important Information System Management concepts:
-
-### Information Organisation
-Community information is divided into clear categories instead of being presented as one large collection of content.
-
-### User-Centred Navigation
-Dropdown menus, dedicated pages, galleries and external resource links allow users to move directly to the information they need.
-
-### Digital Information Access
-The website makes tourism and community information available through a web-based platform that can be accessed through a browser.
-
-### Multimedia Information Presentation
-Text, photographs, local videos, embedded video content and icons are combined to improve information delivery.
-
-### External Information Integration
-The website connects users with online travel, mapping, tourism and social-media resources when additional information is useful.
-
-### Interactive User Experience
-JavaScript and CSS interactions are used to provide video switching, attraction navigation, expandable FAQ content and feedback confirmation.
-
----
 
 # 📚 Learning Outcomes
 
