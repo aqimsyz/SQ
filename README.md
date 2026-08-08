@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lia-011.github.io/SQ/LOCAL_COMMUNITY_WEBSITE/"><strong>🌐 View Live Website</strong></a>
+  <a href="https://aqimsyz.github.io/SQ/LOCAL_COMMUNITY_WEBSITE/"><strong>🌐 View Live Website</strong></a>
 </p>
 
 <p align="center">
@@ -689,7 +689,7 @@ IMS458 — Web Design and Development
 
 The completed website is available through GitHub Pages:
 
-**[Pekan Kundasang Local Community Website](https://lia-011.github.io/SQ/LOCAL_COMMUNITY_WEBSITE/)**
+**[Pekan Kundasang Local Community Website](https://aqimsyz.github.io/SQ/LOCAL_COMMUNITY_WEBSITE/)**
 
 ---
 
